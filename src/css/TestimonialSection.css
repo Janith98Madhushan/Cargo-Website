@@ -1,0 +1,13 @@
+.section-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+@media (max-width: 800px) {
+  .section-container {
+    flex-direction: column;
+  }
+}

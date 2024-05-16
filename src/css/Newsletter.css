@@ -1,0 +1,32 @@
+.newsletter {
+  background-color: #2a2a2a;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.newsletter h2 {
+  color: #ffa500;
+}
+
+.newsletter p {
+  margin-bottom: 15px;
+}
+
+.newsletter input[type="email"] {
+  padding: 10px;
+  margin-top: 10px;
+  width: 250px;
+  border: none;
+  border-radius: 5px;
+}
+
+.newsletter button {
+  padding: 10px 20px;
+  background-color: #ffa500;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px;
+}

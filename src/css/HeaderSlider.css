@@ -1,0 +1,42 @@
+.header-slider {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  padding: 20px;
+}
+
+.slide {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.text-content {
+  max-width: 50%;
+}
+
+.text-content h1 {
+  font-size: 48px;
+}
+
+.text-content span {
+  color: #ffcc00;
+}
+
+.text-content p {
+  margin: 20px 0;
+}
+
+.text-content button {
+  padding: 10px 20px;
+  background-color: #ffcc00;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.image-content img {
+  max-width: 50%;
+}

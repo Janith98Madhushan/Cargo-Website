@@ -1,0 +1,26 @@
+.latest-news {
+  color: #fff;
+  width: 40%;
+}
+
+.latest-news h3 {
+  display: inline-block;
+  margin-bottom: 10px;
+  padding-bottom: 3px;
+  border-bottom: 2px solid #ffa500;
+}
+
+.latest-news ul {
+  list-style: none;
+  padding: 0;
+}
+
+.latest-news li a {
+  color: #ddd;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.latest-news li a:hover {
+  color: #ffa500;
+}

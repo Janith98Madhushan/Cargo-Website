@@ -1,0 +1,41 @@
+.why-choose-us {
+  flex: 1;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.why-choose-us h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.why-choose-us p {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.why-choose-us .reason h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: #444;
+}
+
+.why-choose-us .reason p {
+  font-size: 14px;
+  color: #666;
+}
+
+.reason p {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.reason p svg {
+  margin-left: 10px;
+}
